@@ -42,4 +42,4 @@ define(['N/redirect','N/record'], function (redirect,record) {‌
         afterSubmit: afterSubmit
     }
 	
-});s
+});sssss
